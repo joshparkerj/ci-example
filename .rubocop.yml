@@ -6,3 +6,5 @@ AllCops:
     - 'db/schema.rb'
     - vendor/**/*.rb
     - vendor/bundle/**/*
+Style/Documentation:
+        Enabled: false
